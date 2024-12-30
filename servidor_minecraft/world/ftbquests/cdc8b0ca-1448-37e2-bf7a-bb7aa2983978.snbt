@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cdc8b0ca144837e2bf7abb7aa2983978"
+	name: "SEINARU#cdc8b0ca"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

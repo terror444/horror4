@@ -1,0 +1,17 @@
+{
+	id: "cdc8b0ca-1448-37e2-bf7a-bb7aa2983978"
+	type: "player"
+	player_name: "SEINARU"
+	ranks: {
+		cdc8b0ca-1448-37e2-bf7a-bb7aa2983978: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SEINARU"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6D59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
