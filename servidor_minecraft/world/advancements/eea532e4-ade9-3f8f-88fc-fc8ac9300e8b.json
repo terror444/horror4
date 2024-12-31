@@ -180,6 +180,7 @@
       "minecraft:grove": "2024-12-31 02:39:22 +0000",
       "minecraft:forest": "2024-12-31 00:24:33 +0000",
       "minecraft:ocean": "2024-12-31 02:03:31 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-31 22:07:09 +0000",
       "minecraft:savanna": "2024-12-31 00:32:45 +0000",
       "minecraft:plains": "2024-12-31 00:31:48 +0000"
     },
@@ -276,17 +277,22 @@
   "wythers:world_explorer": {
     "criteria": {
       "wythers:tropical_forest_river": "2024-12-31 01:44:09 +0000",
+      "wythers:black_beach": "2024-12-31 22:08:46 +0000",
       "wythers:gravelly_river": "2024-12-31 02:41:43 +0000",
       "wythers:sparse_bamboo_jungle": "2024-12-31 00:57:58 +0000",
       "wythers:gravelly_beach": "2024-12-31 02:41:16 +0000",
       "wythers:humid_tropical_grassland": "2024-12-31 01:27:32 +0000",
+      "wythers:ancient_golden_beech_forest": "2024-12-31 22:03:24 +0000",
       "wythers:tropical_forest": "2024-12-31 00:44:36 +0000",
       "wythers:jungle_river": "2024-12-31 00:57:36 +0000",
       "wythers:ancient_moss_forest": "2024-12-31 01:19:49 +0000",
       "wythers:tropical_rainforest": "2024-12-31 00:56:50 +0000",
       "wythers:wooded_savanna": "2024-12-31 00:37:40 +0000",
+      "wythers:ancient_copper_beech_forest": "2024-12-31 22:03:35 +0000",
+      "wythers:cool_forest": "2024-12-31 22:24:14 +0000",
       "wythers:ancient_emerald_beech_forest": "2024-12-31 02:41:10 +0000",
       "wythers:subtropical_forest": "2024-12-31 00:42:26 +0000",
+      "wythers:sand_dunes": "2024-12-31 22:16:23 +0000",
       "wythers:subtropical_forest_edge": "2024-12-31 00:37:41 +0000"
     },
     "done": false
@@ -422,6 +428,30 @@
       "endofherobrine:villager": "2024-12-31 21:40:28 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-31 22:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-31 22:18:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-12-31 22:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-31 22:33:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
