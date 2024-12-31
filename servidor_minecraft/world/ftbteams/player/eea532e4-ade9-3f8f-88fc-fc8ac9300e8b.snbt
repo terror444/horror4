@@ -1,0 +1,17 @@
+{
+	id: "eea532e4-ade9-3f8f-88fc-fc8ac9300e8b"
+	type: "player"
+	player_name: "Savathala"
+	ranks: {
+		eea532e4-ade9-3f8f-88fc-fc8ac9300e8b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Savathala"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59F2FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

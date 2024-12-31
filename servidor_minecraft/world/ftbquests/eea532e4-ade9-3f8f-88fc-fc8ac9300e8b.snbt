@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "eea532e4ade93f8f88fcfc8ac9300e8b"
+	name: "Savathala#eea532e4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

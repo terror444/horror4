@@ -1,0 +1,17 @@
+{
+	id: "481244c6-e7af-3148-98d9-e9b761817b24"
+	type: "player"
+	player_name: "MichaelSMP"
+	ranks: {
+		481244c6-e7af-3148-98d9-e9b761817b24: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MichaelSMP"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

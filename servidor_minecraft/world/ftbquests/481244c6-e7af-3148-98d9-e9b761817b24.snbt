@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "481244c6e7af314898d9e9b761817b24"
+	name: "MichaelSMP#481244c6"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

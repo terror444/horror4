@@ -1,0 +1,17 @@
+{
+	id: "f09715c3-dffe-327f-b3bd-921ededd48b1"
+	type: "player"
+	player_name: "apolo22211"
+	ranks: {
+		f09715c3-dffe-327f-b3bd-921ededd48b1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "apolo22211"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

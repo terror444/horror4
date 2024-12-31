@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f09715c3dffe327fb3bd921ededd48b1"
+	name: "apolo22211#f09715c3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
